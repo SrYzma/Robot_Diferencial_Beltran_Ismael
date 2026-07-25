@@ -1,0 +1,25 @@
+===== SIN SATURACION =====
+Error final = 0.0000 m
+Theta D max = 80.14 rad/s
+Theta I max = 62.84 rad/s
+
+===== CON SATURACION =====
+Error final = 0.0000 m
+Theta D max = 20.00 rad/s
+Theta I max = 20.00 rad/s
+
+===== TABLA 8.2 =====
+
+SIN SATURACION
+Error final        = 0.0000 m
+Tiempo de llegada  = 18.23 s
+Theta D maxima     = 80.14 rad/s
+Theta I maxima     = 62.84 rad/s
+Distancia recorrida= 7.13 m
+
+CON SATURACION
+Error final        = 0.0000 m
+Tiempo de llegada  = 20.00 s
+Theta D maxima     = 20.00 rad/s
+Theta I maxima     = 20.00 rad/s
+Distancia recorrida= 7.09 m

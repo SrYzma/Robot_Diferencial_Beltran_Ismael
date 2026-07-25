@@ -1,0 +1,7 @@
+u = 0.300 m/s
+w = 0.300 rad/s
+theta_D = 4.757 rad/s
+theta_I = 3.814 rad/s
+
+Error minimo = 0.000000 m
+Error maximo = 0.003000 m

@@ -1,0 +1,9 @@
+--- RESULTADOS PARA LA TABLA ---
+Caso 1: u=0.30 | w=0.00 | x(end)=1.50 | y(end)=0.00 | theta(end)=0.00
+Caso 2: u=-0.30 | w=0.00 | x(end)=-1.50 | y(end)=0.00 | theta(end)=0.00
+Caso 3: u=0.27 | w=1.00 | x(end)=-0.26 | y(end)=0.19 | theta(end)=5.00
+Caso 4: u=0.27 | w=-1.00 | x(end)=-0.26 | y(end)=-0.19 | theta(end)=-5.00
+Caso 5: u=0.00 | w=3.33 | x(end)=0.00 | y(end)=0.00 | theta(end)=16.67
+Caso 6: u=0.15 | w=1.67 | x(end)=0.08 | y(end)=0.13 | theta(end)=8.33
+Caso 7: u=0.27 | w=0.33 | x(end)=0.81 | y(end)=0.89 | theta(end)=1.67
+Caso 8: u=0.18 | w=1.33 | x(end)=0.05 | y(end)=0.01 | theta(end)=6.67
